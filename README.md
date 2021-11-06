@@ -32,3 +32,7 @@ Swing Java javafx
 
 
 
+[S1-7 IoT기반 에너지 매니저 시스템.pdf](https://github.com/Young-Min-Kim/Young-Min-Kim/files/7489625/S1-7.IoT.pdf)
+
+
+
